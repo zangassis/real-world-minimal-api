@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager.API.Default", "ContactManager.API.Default\ContactManager.API.Default.csproj", "{4A178729-9300-4A45-9E8D-9DB4C212FDFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager.Tests", "ContactManager.Tests\ContactManager.Tests.csproj", "{901036A0-2232-462C-B818-4CD38E72BDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A178729-9300-4A45-9E8D-9DB4C212FDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A178729-9300-4A45-9E8D-9DB4C212FDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A178729-9300-4A45-9E8D-9DB4C212FDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A178729-9300-4A45-9E8D-9DB4C212FDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901036A0-2232-462C-B818-4CD38E72BDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901036A0-2232-462C-B818-4CD38E72BDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901036A0-2232-462C-B818-4CD38E72BDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901036A0-2232-462C-B818-4CD38E72BDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2FD2DAF-CED2-450D-8FAD-406EC6A78B1F}
+	EndGlobalSection
+EndGlobal
